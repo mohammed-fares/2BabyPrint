@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">2BabyPrint</string>
+    <string name="tagline">متجر واستوديو طباعة ملابس الأطفال بالطلب</string>
+    <string name="slogan_hero">صممي ملابس طفلك بلمسة حب فريدة ومطرزة بالذكريات</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_studio">استوديو التصميم</string>
+    <string name="nav_templates">القوالب الجاهزة</string>
+    <string name="nav_orders">طلباتي</string>
+    <string name="nav_cart">سلة التسوق</string>
+    
+    <!-- Age Categories -->
+    <string name="cat_nursery">الحضانات والمدارس</string>
+    <string name="cat_infants">حديثي الولادة (0-2 سنة)</string>
+    <string name="cat_toddlers">الأطفال الصغار (3-5 سنوات)</string>
+    <string name="cat_kids">اليافعين (6-10 سنوات)</string>
+    <string name="cat_all">كافة المنتجات</string>
+    
+    <!-- Trust Badges -->
+    <string name="badge_cotton_title">قطن 100% طبيعي</string>
+    <string name="badge_cotton_sub">ناعم ولطيف على بشرة الأطفال الحساسة</string>
+    <string name="badge_eco_title">أحبار آمنة صحياً</string>
+    <string name="badge_eco_sub">تقنية DTG/DTF بأحبار نباتية خالية من المواد الكيميائية</string>
+    <string name="badge_shipping_title">شحن سريع وتغليف هدية</string>
+    <string name="badge_shipping_sub">علبة هدايا فاخرة مع كرت مباركة مخصص</string>
+    <string name="badge_payment_title">دفع آمن ومتعدد</string>
+    <string name="badge_payment_sub">مدى، أبل باي، وتمارا بالتقسيط</string>
+
+    <!-- Studio Actions -->
+    <string name="action_customize">تخصيص التصميم الآن</string>
+    <string name="action_add_to_cart">إضافة إلى السلة</string>
+    <string name="action_save_draft">حفظ كمسودة</string>
+    <string name="action_preview_300dpi">معاينة جودة الطباعة (300 DPI)</string>
+    <string name="action_checkout">إتمام الطلب والدفع</string>
+    <string name="order_success">تم تأكيد طلبك بنجاح!</string>
+</resources>

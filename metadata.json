@@ -1,0 +1,6 @@
+{
+  "name": "2BabyPrint",
+  "description": "متجر واستوديو طباعة ملابس أطفال بالطلب - On-demand Baby & Kids Apparel Custom Printing",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
